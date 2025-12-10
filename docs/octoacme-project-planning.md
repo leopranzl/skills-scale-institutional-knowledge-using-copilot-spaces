@@ -41,3 +41,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Role Assignment and Team Resources
+
+As you plan your project, clearly define roles and responsibilities to ensure accountability and smooth handoffs. Refer to [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for detailed descriptions of common project roles including both core roles (Developers, Product Managers, Project Managers) and specialized roles (Stakeholder Engagement Lead, Change Manager, Risk Champion, Data Steward, Onboarding Coordinator).
+
+**Helpful resources during planning:**
+- Use the [role-responsibility template](templates/role-responsibility-template.md) to document role assignments specific to your project
+- Reference the [onboarding checklist](templates/onboarding-checklist.md) when bringing new team members into the project
+- Consider creating a RACI matrix for complex activities (see examples in the roles document)
